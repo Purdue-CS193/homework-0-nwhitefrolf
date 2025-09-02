@@ -1,7 +1,7 @@
 # Neal White's First CS193 Homework
--Get to learn about different softwares
--Prepares me for future classes and work
--Only 1 credit hour
+- Get to learn about different softwares
+- Prepares me for future classes and work
+- Only 1 credit hour
 
 
 
